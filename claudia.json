@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "mpm_lambda-executor",
+    "name": "mpm_lambda",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "bis4sttn9k",
+    "module": "src/App"
+  }
+}
